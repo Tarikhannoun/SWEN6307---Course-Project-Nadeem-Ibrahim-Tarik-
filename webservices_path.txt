@@ -1,0 +1,6 @@
+http://www.optimal.ps/SWEN6307/getCustomerInfo.php?wsdl
+http://www.optimal.ps/SWEN6307/getCustomerBills.php?wsdl
+http://www.optimal.ps/SWEN6307/getCustomerServices.php?wsdl
+http://www.optimal.ps/SWEN6307/login.php?wsdl
+http://www.optimal.ps/SWEN6307/bankAuthntectionPayment.php?wsdl
+http://www.optimal.ps/SWEN6307/updatePayment.php?wsdl
