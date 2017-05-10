@@ -12,8 +12,14 @@ Notes:
 
 
 2- Web server2 (simulate Local LAN) (Middleware2): built on Apache, use SOAP technology and return JSON format 
+
+
 3- We tasted all web services that built on apache and jboss by using SOAP UI vesion 5.3.0
+
+
 4- we implemented Apache web services on public server (www.optimal.ps), any one can use them:
+
+
 http://www.optimal.ps/SWEN6307/getCustomerInfo.php?wsdl
 http://www.optimal.ps/SWEN6307/getCustomerBills.php?wsdl
 http://www.optimal.ps/SWEN6307/getCustomerServices.php?wsdl
